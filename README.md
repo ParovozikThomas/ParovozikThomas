@@ -2,7 +2,7 @@
 
 I am a student at **HSE University - St. Petersburg**, focusing on backend development. My primary interest lies in using C++ to build efficient applications.
 
-Alongside my core focus on backend systems, I have a strong interest in the fields of **Artificial Intelligence and Machine Learning** and plan to grow my skills in this area in the future.
+Alongside my core focus on backend systems, I have a strong interest in the fields of **Artificial Intelligence and Machine Learning** and plan to grow my skills in this area in the future. I am actively interested in Large Language Models and enjoy exploring their capabilities through **prompt engineering**.
 
 🌐 **You can learn more about me on my personal website: [parovozikthomas.github.io](https://parovozikthomas.github.io/)**
 - 📫 You can reach me via email at `toni.podrezov@gmail.com`.
