@@ -29,5 +29,7 @@ Alongside my core focus on backend systems, I have a strong interest in the fiel
 
 <p align="center">
 
-<a href="https://t.me/your_telegram_username" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="Parovozik11" height="30" width="40" /></a>
+<a href="https://t.me/Parovozik11" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
 </p>
