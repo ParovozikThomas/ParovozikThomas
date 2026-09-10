@@ -13,11 +13,11 @@ Alongside my core focus on backend systems, I have a strong interest in the fiel
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,python,qt,postgres,redis,docker,git,bash&perline=8" />
+    <img src="https://skillicons.dev/icons?i=cpp,python,qt,postgres,redis,docker,java,kotlin,git,bash&perline=8" />
   </a>
 </p>
 
-*   **Languages & Development:** `C++`, `Python`, `Qt`
+*   **Languages & Development:** `C++`, `Kotlin`, `Java', `Python`, `Qt`
 *   **Databases:** `PostgreSQL` (SQL), `Redis`
 *   **Tools & Frameworks:** `Docker`, `Git`, `Bash/Shell`, `userver`
 
