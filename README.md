@@ -17,7 +17,7 @@ Alongside my core focus on backend systems, I have a strong interest in the fiel
   </a>
 </p>
 
-*   **Languages & Development:** `C++`, `Kotlin`, `Java', `Python`, `Qt`
+*   **Languages & Development:** `C++`, `Kotlin`, `Java`, `Python`, `Qt`
 *   **Databases:** `PostgreSQL` (SQL), `Redis`
 *   **Tools & Frameworks:** `Docker`, `Git`, `Bash/Shell`, `userver`
 
